@@ -1,0 +1,1 @@
+npx esbuild src/index.ts --bundle --minify --platform=node --outfile=build/app.js --watch

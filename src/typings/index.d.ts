@@ -1,0 +1,3 @@
+interface IBase {
+    name: string
+}
