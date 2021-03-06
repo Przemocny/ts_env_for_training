@@ -29,10 +29,11 @@ yarn
 // src/* - developers files
 // build/* - production files
 
-// common/*.ts - parts shared in script like utils or helpers
-// common/__test__/*.test.ts - example of test for shared part
-// task/*.ts - main part of script
-// data/*.json - hardcoded data dir
+// src/common/*.ts - parts shared in script like utils or helpers
+// src/common/__test__/*.test.ts - example of test for shared part
+// src/task/*.ts - main part of script
+// src/data/*.json - hardcoded data dir
+// src/typings/index.d.ts - custom shared types
 ```
 
 ## how to start developing:
