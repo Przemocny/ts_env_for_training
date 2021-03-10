@@ -5,7 +5,7 @@
   "main": "build/app.js",
   "homepage": "https://academy.localhost-group.com/",
   "scripts": {
-    "start": "concurrently \"bash run_dev_server.sh\" \"nodemon\"",
+    "start": "nodemon",
     "test": "jest --watchAll"
   },
   "keywords": [

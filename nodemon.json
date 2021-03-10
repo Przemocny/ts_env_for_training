@@ -1,5 +1,5 @@
 {
-  "watch": ["*.js"],
-  "ext": "js",
-  "exec": "node build/app.js"
+  "ext": "ts",
+  "watch":["./src"],
+  "exec": "bash run_dev_server.sh"
 }
