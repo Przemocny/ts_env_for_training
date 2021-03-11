@@ -11,9 +11,9 @@ by [Localhost Academy](https://academy.localhost-group.com/)
 
 ## how to install global deps (if you don't already have them):
 ```javascript
-npm install -g typescript nodemon jest ts-jest esbuild npx concurrently
+npm install -g typescript nodemon jest ts-jest esbuild npx
 // or 
-yarn global add typescript nodemon jest ts-jest esbuild npx concurrently
+yarn global add typescript nodemon jest ts-jest esbuild npx
 ```
 
 
